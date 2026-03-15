@@ -101,5 +101,5 @@ This project was developed during the WISH AI/ML Hackathon.
 Team members:
 
 - Amina Sadybek
-- [Kamila Nurzhanova](https://github.com/username)
-- [Madina Maldarbekova](https://github.com/username)
+- Kamila Nurzhanova
+- Madina Maldarbekova
