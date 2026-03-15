@@ -93,3 +93,13 @@ Our team ranked **Top 16 out of 57 teams**.
 KazPunct Hackathon — Kaggle Competition (2026)
 
 https://kaggle.com/competitions/kaz-punct-hackathon
+
+## Team
+
+This project was developed during the WISH AI/ML Hackathon.
+
+Team members:
+
+- Amina Sadybek
+- [Kamila Nurzhanova](https://github.com/username)
+- [Madina Maldarbekova](https://github.com/username)
